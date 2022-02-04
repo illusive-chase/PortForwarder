@@ -1,0 +1,9 @@
+/*
+!/docker_restart.sh
+!/docker_start.sh
+!/docker_status.sh
+!/mapping.sh
+!/openconnect-proxy
+!/vpn
+!/.gitignore
+!/.gitmodules

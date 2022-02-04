@@ -1,0 +1,3 @@
+[submodule "openconnect-proxy"]
+	path = openconnect-proxy
+	url = https://github.com/cbwang2016/openconnect-proxy
